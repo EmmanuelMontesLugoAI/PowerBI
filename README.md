@@ -1,2 +1,2 @@
 # PowerBI
-Official Repository for a PowerBI Data Analyst course IACenter
+Official Repository for a PowerBI Data Analyst course in IACenter.
